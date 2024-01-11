@@ -13,18 +13,56 @@
 
 <br>
 
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 
+<div align="center">
+  <a href="https://github.com/juanessaavedra">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=juanessaavedra&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juanessaavedra&layout=compact&theme=tokyonight"/>
+</div>
+
+<hr>
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  I have knowledge in</b>
 <br>
 
+<div style="display: inline_block">
+  <p><b>Frond-End</b></p>
+  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  
+  <hr>
+  <p> <b>Back-End</b></p>
+  <img align="center" alt="Rafa-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  
+  <hr>
+  <p> <b>Data Bases</b></p>
+  <img align="center" alt="Rafa-Mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  
+  <hr>
+  <p> <b>My Others Skills</b></p>
+  <img align="center" alt="Rafa-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
+  <img align="center" alt="Rafa-VCode" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">    
+
+
+</div>
+
+<hr>
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"><b> Let's Connect!</b>
-<br>
+<div> 
+  <a href="https://www.instagram.com/juanes.saavedra/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "juanessaavedra777@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  ![Snake animation](https://github.com/feerny/feerny/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 
 
