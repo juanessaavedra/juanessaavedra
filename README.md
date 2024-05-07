@@ -9,7 +9,7 @@
 <br>
 
 - I’m currently studying Software Engineering
-- Currently learning Web Development by Self
+- Currently learning software development by self
 
 <br>
 
