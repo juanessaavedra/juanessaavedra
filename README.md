@@ -7,8 +7,10 @@
 
 
 <br/>
+
 - I’m currently studying Software Engineering
 - Currently learning software development by self
+
 <br/>
 
 ## <b> Let's Connect!</b>
