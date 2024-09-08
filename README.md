@@ -7,8 +7,6 @@
 💻 I’m currently studying Software Engineering. <br>
 🎯 I'm a backend developer currently learning Express. 
 
-<br/>
-
 #### <b> Let's Connect!</b>
 
 <a href="https://www.linkedin.com/in/juanestebansaavedra/" target="_blank">
