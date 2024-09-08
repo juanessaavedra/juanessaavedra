@@ -37,7 +37,7 @@
    <a href = "mailto:juanessaavedra777@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
-# 📊 My Github Stats
+## 📊 My Github Stats
 
  <br/>
     <a href="https://github.com/juanessaavedra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=juanessaavedra&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
