@@ -56,9 +56,7 @@
 
 
 
-<div> 
-  ![Snake animation](https://github.com/feerny/feerny/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 
 
 
