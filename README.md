@@ -48,7 +48,7 @@
 
 
 
-![Juanes GitHub stats](https://github-readme-stats.vercel.app/api?username=juanessaavedra&hide=contribs,prs)
+![Juanes GitHub stats](https://github-readme-stats.vercel.app/api?username=juanessaavedra&show_icons=true)
 
 
 <div> 
