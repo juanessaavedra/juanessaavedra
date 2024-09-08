@@ -7,12 +7,18 @@
 
 
 <br/>
-
 - I’m currently studying Software Engineering
 - Currently learning software development by self
-
 <br/>
 
+## <b> Let's Connect!</b>
+ <br/>
+<a href="https://www.linkedin.com/in/juanestebansaavedra/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+<a href="https://www.instagram.com/juanes.saavedra/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href = "mailto:juanessaavedra777@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <br/>
 
 <br/>
 
@@ -28,15 +34,6 @@
 
 <hr>
 <br/>
-
-## <b> Let's Connect!</b>
- <br/>
-<a href="https://www.linkedin.com/in/juanestebansaavedra/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-<a href="https://www.instagram.com/juanes.saavedra/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:juanessaavedra777@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <br/>
 
 ## 📊 My Github Stats
  <br/>
