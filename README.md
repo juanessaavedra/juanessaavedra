@@ -20,8 +20,8 @@
 <br>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,java,mysql" /><br>
+	<img src="https://skillicons.dev/icons?i=html,css,vscode,git,github,figma,r" />
 </div>
 
 </div>
