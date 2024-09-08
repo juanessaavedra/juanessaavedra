@@ -1,8 +1,8 @@
-<h1 align="center"><b>Hi, I'm Juan Esteban </b></h1>
+<h1 align="center"><b>Hi 👋, I'm Juan Esteban </b></h1>
 
 
 	
-#  About me
+# ⚡️About me
 
 💻 I’m currently studying Software Engineering. <br>
 🎯 I'm a backend developer currently learning Express. 
