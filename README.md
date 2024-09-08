@@ -27,7 +27,7 @@
 </div>
 
 <hr>
-
+<br>
 ## <b> Let's Connect!</b>
 
 <a href="https://www.linkedin.com/in/juanestebansaavedra/" target="_blank">
