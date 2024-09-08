@@ -35,7 +35,6 @@
 </div>
 
 <hr>
-<br/>
 
 ## 📊 My Github Stats
  <br/>
