@@ -2,7 +2,7 @@
 
 
 	
-#  **About me**
+#  About me
 
 💻 I’m currently studying Software Engineering. <br>
 🎯 I'm a backend developer currently learning Express. 
