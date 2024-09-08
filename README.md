@@ -6,28 +6,28 @@
 
 
 
-<br>
+<br/>
 
 - I’m currently studying Software Engineering
 - Currently learning software development by self
 
-<br>
+<br/>
 
 
-<br>
+<br/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Languages-Frameworks-Tools</b>
 <br>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,java,mysql" /><br/>
 	<img src="https://skillicons.dev/icons?i=html,css,vscode,git,github,figma,r" />
 </div>
 
 </div>
 
 <hr>
-<br>
+<br/>
 ## <b> Let's Connect!</b>
 
 <a href="https://www.linkedin.com/in/juanestebansaavedra/" target="_blank">
@@ -38,7 +38,6 @@
 
 
 ## 📊 My Github Stats
-
  <br/>
     <a href="https://github.com/juanessaavedra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=juanessaavedra&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/juanessaavedra/github-readme-stats"><img alt="Juanes Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanessaavedra&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
