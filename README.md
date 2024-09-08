@@ -8,8 +8,8 @@
 
 <br/>
 
-- I’m currently studying Software Engineering
-- Currently learning software development by self
+- 💻 I’m currently studying Software Engineering.
+- 🎯 I'm a backend developer currently learning Express. 
 
 <br/>
 
