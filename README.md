@@ -1,6 +1,5 @@
 <h1 align="center"><b>Hi, I'm Juan Esteban </b></h1>
 <p align="center"><img src="https://raw.githubusercontent.com/juanessaavedra/juanessaavedra/main/hello-juanes.png"></p>
-
 	
 # ⚡️About me
 
@@ -35,12 +34,3 @@
     <a href="https://github.com/juanessaavedra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=juanessaavedra&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/juanessaavedra/github-readme-stats"><img alt="Juanes Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanessaavedra&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-
-
-
-
-
-
-
-
-
