@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi 👋, I'm Juan Esteban </b></h1>
-
+<p align="center"><img src="https://raw.githubusercontent.com/juanessaavedra/juanessaavedra/main/hello-juanes.png"></p>
 
 	
 # ⚡️About me
