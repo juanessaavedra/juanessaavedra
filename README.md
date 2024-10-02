@@ -4,7 +4,7 @@
 # ⚡️About me
 
 💻 I’m currently studying Software Engineering. <br>
-🎯 I'm a backend developer currently learning...
+🎯 I'm a backend developer currently learning Express
 
 #### <b> Let's Connect!</b>
 
