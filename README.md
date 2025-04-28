@@ -21,8 +21,8 @@
 <br>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,vue,java,spring,mysql,mongodb,xano" /><br/>
-	<img src="https://skillicons.dev/icons?i=html,css,figma,git,docker,jira" />
+    <img src="https://skillicons.dev/icons?i=python,django,javascript,nodejs,vue,java,spring,mysql,mongodb" /><br/>
+	<img src="https://skillicons.dev/icons?i=html,css,figma,git,docker" />
 </div>
 
 </div>
