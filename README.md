@@ -4,7 +4,7 @@
 # ⚡️About me
 
 💻 I’m currently studying Software Engineering. <br>
-🎯 I'm a backend developer currently learning Django and VueJS
+🎯 I'm a Junior Fullstack Developer currently learning AWS
 
 #### <b> Let's Connect!</b>
 
