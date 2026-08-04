@@ -30,8 +30,3 @@
 **Otras herramientas:** Stripe · Supabase (RLS, Auth, Edge Functions) · XANO · n8n · WordPress · Wix
 
 <hr>
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/juanessaavedra/juanessaavedra/output/github-contribution-grid-snake-dark.svg" />
-</p>
