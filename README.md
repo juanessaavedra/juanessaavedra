@@ -6,7 +6,7 @@
 
 # ⚡️About me
 💻 Ingeniería de Software (2023 – 2026)<br>
-☁️ Actualmente **DevOps Trainee**, especializado en despliegue de infraestructura con IaC y automatización CI/CD <br>
+☁️ Actualmente **DevOps Engineer**, especializado en despliegue de infraestructura con IaC y automatización CI/CD <br>
 🚀 Más de un año de experiencia como Desarrollador Fullstack / Backend <br>
 🗣️ Inglés B2
 
