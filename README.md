@@ -1,14 +1,14 @@
 <h1 align="center"><b>Hi, I'm Juan Esteban </b></h1>
 <p align="center"><img src="https://raw.githubusercontent.com/juanessaavedra/juanessaavedra/main/hello-juanes.png"></p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Trainee;Fullstack+%26+Cloud+Developer;Aprendiendo+AWS&font=Fira+Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&background=00000000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Trainee;Fullstack+%26+Cloud+Developer;Learning+AWS&font=Fira+Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&background=00000000" />
 </p>
 
 # ⚡️About me
-💻 Ingeniería de Software (2023 – 2026)<br>
-☁️ Actualmente **DevOps Engineer**, especializado en despliegue de infraestructura con IaC y automatización CI/CD <br>
-🚀 Más de un año de experiencia como Desarrollador Fullstack / Backend <br>
-🗣️ Inglés B2
+💻 Software Engineering (2023 – 2026)<br>
+☁️ Currently a **DevOps Engineer**, specialized in infrastructure deployment with IaC and CI/CD automation <br>
+🚀 Over a year of experience as a Fullstack / Backend Developer <br>
+🗣️ English B2
 
 #### <b> Let's Connect!</b>
 <a href="https://www.linkedin.com/in/juanestebansaavedra/" target="_blank">
@@ -27,6 +27,6 @@
     <img src="https://skillicons.dev/icons?i=git,docker,aws,azure,terraform,githubactions" />
 </div>
 
-**Otras herramientas:** Stripe · Supabase (RLS, Auth, Edge Functions) · XANO · n8n · WordPress · Wix
+**Other tools:** Stripe · Supabase (RLS, Auth, Edge Functions) · XANO · n8n · WordPress · Wix
 
 <hr>
