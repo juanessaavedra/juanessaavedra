@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Juan Esteban </b></h1>
 <p align="center"><img src="https://raw.githubusercontent.com/juanessaavedra/juanessaavedra/main/hello-juanes.png"></p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Trainee;Fullstack+%26+Cloud+Developer;Learning+AWS&font=Fira+Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&background=00000000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer;Fullstack+%26+Cloud+Developer;Learning+AWS&font=Fira+Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&background=00000000" />
 </p>
 
 # ⚡️About me
